@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24" width="512" height="512"><path d="M16.043,14H7.957A4.963,4.963,0,0,0,3,18.957V24H21V18.957A4.963,4.963,0,0,0,16.043,14Z"/><circle cx="12" cy="6" r="6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="28px" viewBox="0 0 28 28" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 18.71875 16.332031 L 9.28125 16.332031 C 6.089844 16.335938 3.503906 18.925781 3.5 22.117188 L 3.5 28 L 24.5 28 L 24.5 22.117188 C 24.496094 18.925781 21.910156 16.335938 18.71875 16.332031 Z M 18.71875 16.332031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 21 7 C 21 10.867188 17.867188 14 14 14 C 10.132812 14 7 10.867188 7 7 C 7 3.132812 10.132812 0 14 0 C 17.867188 0 21 3.132812 21 7 Z M 21 7 "/>
+</g>
+</svg>
