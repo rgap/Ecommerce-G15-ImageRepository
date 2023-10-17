@@ -1,5 +1,6 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="add">
-<path id="Vector" d="M19 13H13V19H11V13H5V11H11V5H13V11H19V13Z" fill="#404E3E"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="28px" viewBox="0 0 28 28" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.098039%,30.588235%,24.313725%);fill-opacity:1;" d="M 22.167969 15.167969 L 15.167969 15.167969 L 15.167969 22.167969 L 12.832031 22.167969 L 12.832031 15.167969 L 5.832031 15.167969 L 5.832031 12.832031 L 12.832031 12.832031 L 12.832031 5.832031 L 15.167969 5.832031 L 15.167969 12.832031 L 22.167969 12.832031 Z M 22.167969 15.167969 "/>
 </g>
 </svg>
